@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student passionate about web development. I have built several web projects that demonstrate my growing expertise and problem-solving abilities in both front-end and back-end development. Eager to learn and adapt, I continuously seek opportunities to expand my skill set and stay up-to-date with the latest technologies and best practices in the field.<br><br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning machine learning algorithms and looking forward to learn PHP Laravel Framework<br>
+I am a computer science student who is passionate about web development. I have built several web projects that demonstrate my growing expertise and problem-solving abilities in both front-end and back-end development. Eager to learn and adapt, I continuously seek opportunities to expand my skill set and stay up-to-date with the latest technologies and best practices in the field.<br><br>👯 I’m looking to collaborate on open source projects<br>🌱 I’m currently learning machine learning algorithms and looking forward to learn PHP Laravel Framework<br>
 
 
 # 💻 Tech Stack:
